@@ -9,7 +9,7 @@ also use Newtonsoft.Json for their own purposes.
 
 If you see package load failures from assembly mismatch exceptions, this 
 extension should fix them, by providing a runtime binding redirect to 
-Visual Studio unifying all versions on the most commonly used one, specified in this extension's packages.config file.
+Visual Studio unifying all versions on the most commonly used one, specified in this extension's [packages.config](https://github.com/MobileEssentials/NewtonsoftJsonFixer/blob/master/NewtonsoftJsonFixer/packages.config#L3) file.
 
 The specific scenario this extension solves is be easy to detect:
 
