@@ -1,0 +1,8 @@
+﻿[$RootKey$\BindingPaths\{E1839608-31F4-4187-A56B-5A2884FE7208}]
+"$PackageFolder$"=""
+[$RootKey$\RuntimeConfiguration\dependentAssembly\bindingRedirection\{43BE6845-B4F2-46B3-AB4C-4FCB96037DB2}]
+"name"="Newtonsoft.Json"
+"publicKeyToken"="30ad4fe6b2a6aeed"
+"culture"="neutral"
+"oldVersion"="0.0.0.0-99.9.9.9"
+"newVersion"="6.0.0.0"
