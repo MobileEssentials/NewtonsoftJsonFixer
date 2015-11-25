@@ -4,6 +4,9 @@
     <Identity Id="MobileEssentials.NewtonsoftJsonFixer" Version="1.0" Language="en-US" Publisher="Mobile Essentials" />
     <DisplayName>Newtonsoft.Json Fixer</DisplayName>
     <Description xml:space="preserve">Fixes binding failures with Newtonsoft.Json that may happen when extensions distribute different versions of the assembly that is included with Visual Studio</Description>
+    <MoreInfo>https://github.com/MobileEssentials/NewtonsoftJsonFixer</MoreInfo>
+    <License>LICENSE.txt</License>
+    <Icon>Resources\Package.ico</Icon>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[11.0,]" />

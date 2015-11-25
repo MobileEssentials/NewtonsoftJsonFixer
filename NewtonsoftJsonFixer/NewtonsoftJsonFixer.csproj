@@ -20,7 +20,6 @@
     <CopyOutputSymbolsToOutputDirectory>false</CopyOutputSymbolsToOutputDirectory>
     <TargetVsixContainerName>MobileEssentials.NewtonsoftJsonFixer.vsix</TargetVsixContainerName>
     <CreateVsixContainer Condition=" '$(Configuration)' == 'Debug' ">false</CreateVsixContainer>
-    <ZipPackageCompressionLevel>Maximum</ZipPackageCompressionLevel>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <OutputPath>bin\$(Configuration)\</OutputPath>
